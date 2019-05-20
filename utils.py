@@ -13,7 +13,7 @@ import os
 import spacy
 
 # get the spacy models we need, download if it isn't here
-model = 'en_core_web_md'
+model = 'en_core_web_sm'
 try:
    spacy.load(model)
 except IOError:

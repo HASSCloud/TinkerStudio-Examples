@@ -1,5 +1,6 @@
 Jesus 
 God
+Lord
 Abraham
 Joseph
 Mary
@@ -45,3 +46,11 @@ Philemon
 Gaius
 Jude
 Gabriel
+Reuben
+Simeon
+Levi
+Isaac
+Benjamin
+Naphtali
+Asher
+Gad
